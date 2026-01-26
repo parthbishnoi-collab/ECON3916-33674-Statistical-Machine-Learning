@@ -30,4 +30,3 @@ This analysis demonstrates that inflation is not a uniform phenomenon. Aggregate
 - Index construction & normalization (Laspeyres framework)
 - Applied macroeconomic analysis
 - Data visualization & economic storytelling
-"""
