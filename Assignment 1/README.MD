@@ -1,4 +1,3 @@
-readme_md = """
 # 📈 The Cost of Living Crisis: A Data-Driven Analysis
 
 ## The Problem
